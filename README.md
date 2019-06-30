@@ -6,6 +6,10 @@
 ---
 ## 说明
 
+### DtkDemo.pro
+    修改 TARGET = DtkDemo 为你自己的项目名[ TARGET = DtkDemo ---> TARGET = 你自己的项目名]
+
+
 ### main.cpp
     在main.cpp中，你可以修改软件名称，增加你自己的专属Log（a.setProductIcon(QIcon":/images/icon.svg"));  //设置Logo）
 
